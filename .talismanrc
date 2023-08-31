@@ -1,6 +1,0 @@
-fileignoreconfig:
-- filename: examples/python-web-app/devops/devops/settings.py
-  checksum: 0a4d80ff39e745089c338b5902143e7efdae222b8b4e43441a02b27c0cd47a41
-- filename: README.md
-  checksum: 38187c1a6428202339f7fe08f5cfde7dae4256285d0c359a8342572f5a72057a
-version: ""
